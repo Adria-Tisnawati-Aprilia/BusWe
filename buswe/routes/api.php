@@ -3,6 +3,7 @@
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Api\BusController;
+use App\Http\Controllers\Api\SupirController;
 /*
 |--------------------------------------------------------------------------
 | API Routes
@@ -13,8 +14,6 @@ use App\Http\Controllers\Api\BusController;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
-Route::get('buses', [BusController::class, 'index']);
-Route::post('buses', [BusController::class, 'store']);
-Route::get('buses/{bus}', [BusController::class, 'show']);
-Route::put('buses/{bus}', [BusController::class, 'update']);
-Route::delete('buses/{bus}', [BusController::class, 'destroy']);
+
+Route::apiResource('buses', BusController::class);
+Route::apiResource('supirs', SupirController::class);
