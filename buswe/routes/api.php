@@ -4,6 +4,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Api\BusController;
 use App\Http\Controllers\Api\SupirController;
+use App\Http\Controllers\Api\TerminalController;
 /*
 |--------------------------------------------------------------------------
 | API Routes
@@ -17,3 +18,4 @@ use App\Http\Controllers\Api\SupirController;
 
 Route::apiResource('buses', BusController::class);
 Route::apiResource('supirs', SupirController::class);
+Route::apiResource('terminals', TerminalController::class);
