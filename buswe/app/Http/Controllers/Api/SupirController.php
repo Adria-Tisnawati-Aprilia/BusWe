@@ -9,7 +9,7 @@ class SupirController extends Controller
 {
     public function index()
     {
-        $supirs = Supir::paginate();
+        $supirs = Supir::orderByDesc('created_at')->paginate(5);
         return response()->json($supirs);
     }
 

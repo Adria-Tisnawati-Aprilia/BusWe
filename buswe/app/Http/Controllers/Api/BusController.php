@@ -9,7 +9,7 @@ class BusController extends Controller
 {
     public function index ()
     {
-        $buses = Bus::paginate();
+        $buses = Bus::orderByDesc('created_at')->paginate(5);
         return response()->json($buses);
     }
 
