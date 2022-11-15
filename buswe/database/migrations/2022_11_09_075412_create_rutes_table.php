@@ -15,8 +15,8 @@ return new class extends Migration
     {
         Schema::create('rutes', function (Blueprint $table) {
             $table->id();
-            $table->string('asal');
-            $table->string('tujuan');
+            $table->unsignedBigInteger('asal');
+            $table->unsignedBigInteger('tujuan');
             $table->string('kode');
             $table->integer('waktu_tempuh') -> comment('waktu_tempuh in minutes');
             $table->text('checkpoints');
