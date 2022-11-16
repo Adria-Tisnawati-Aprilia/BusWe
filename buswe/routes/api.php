@@ -18,13 +18,12 @@ use App\Http\Controllers\Api\JadwalController;
 |
 */
 
-//Route::group(['middleware' => 'auth:sanctum'], function($router) {
-Route::apiResource('buses', BusController::class);
-Route::apiResource('supirs', SupirController::class);
-Route::apiResource('terminals', TerminalController::class);
-Route::apiResource('rutes', RuteController::class);
-Route::apiResource('jadwals', JadwalController::class);
+Route::group(['middleware' => 'auth:sanctum'], function($router) {
+    Route::apiResource('buses', BusController::class);
+    Route::apiResource('supirs', SupirController::class);
+    Route::apiResource('terminals', TerminalController::class);
+    Route::apiResource('rutes', RuteController::class);
+    Route::apiResource('jadwals', JadwalController::class);
 
+});
 Route::post('auth/login', [AuthController::class, 'login']);
-
-//});
