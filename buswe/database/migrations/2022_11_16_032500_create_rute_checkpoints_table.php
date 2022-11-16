@@ -13,12 +13,13 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('rutes', function (Blueprint $table) {
-            $table->id();
-            $table->unsignedBigInteger('asal');
-            $table->unsignedBigInteger('tujuan');
-            $table->string('kode');
-            $table->integer('waktu_tempuh') -> comment('waktu_tempuh in minutes');
+        Schema::create('rute_checkpoints', function (Blueprint $table) {
+            $table->string('checkpoint_code');
+            $table->unsignedBigInteger('rute_id');
+            $table->unsignedBigInteger('terminal_id');
+            $table->integer('waktu');
+
+            $table->primary(['checkpoint_code', 'rute_id']);
             $table->timestamps();
         });
     }
@@ -30,6 +31,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('rutes');
+        Schema::dropIfExists('rute_checkpoints');
     }
 };

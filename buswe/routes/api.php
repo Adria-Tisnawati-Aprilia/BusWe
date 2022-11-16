@@ -25,4 +25,6 @@ Route::apiResource('terminals', TerminalController::class);
 Route::apiResource('rutes', RuteController::class);
 Route::apiResource('jadwals', JadwalController::class);
 
+Route::post('auth/login', [AuthController::class, 'login']);
+
 //});

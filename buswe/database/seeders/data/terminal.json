@@ -1,0 +1,878 @@
+[
+    {
+        "id": "1.",
+        "name": "Terminal Langsa",
+        "kota": "Kota Langsa",
+        "province": "Aceh"
+    },
+    {
+        "id": "2.",
+        "name": "Terminal Lhokseumawe",
+        "kota": "Kota Lhokseumawe",
+        "province": "Aceh"
+    },
+    {
+        "id": "3.",
+        "name": "Terminal Meulaboh",
+        "kota": "Kota Meulaboh",
+        "province": "Aceh"
+    },
+    {
+        "id": "4.",
+        "name": "Terminal Batoh",
+        "kota": "Kota Banda Aceh",
+        "province": "Aceh"
+    },
+    {
+        "id": "5.",
+        "name": "Terminal Paya Ilang",
+        "kota": "Kabupaten Aceh Tengah",
+        "province": "Aceh"
+    },
+    {
+        "id": "6.",
+        "name": "Terminal Tanjung Pinggir",
+        "kota": "Kota Pematang Siantar",
+        "province": "Sumatra Utara"
+    },
+    {
+        "id": "7.",
+        "name": "Terminal Madya Tarutung",
+        "kota": "Kabupaten Tapanuli Utara",
+        "province": "Sumatra Utara"
+    },
+    {
+        "id": "8.",
+        "name": "Terminal Sibolga",
+        "kota": "Kota Sibolga",
+        "province": "Sumatra Utara"
+    },
+    {
+        "id": "9.",
+        "name": "Terminal Padang Bulan",
+        "kota": "Kabupaten Labuhanbatu",
+        "province": "Sumatra Utara"
+    },
+    {
+        "id": "10.",
+        "name": "Terminal Amplas",
+        "kota": "Kota Medan",
+        "province": "Sumatra Utara"
+    },
+    {
+        "id": "11.",
+        "name": "Terminal Pinang Baris",
+        "province": "Sumatra Utara"
+    },
+    {
+        "id": "12.",
+        "name": "Terminal Anak Air",
+        "kota": "Kota Padang",
+        "province": "Sumatra Barat"
+    },
+    {
+        "id": "13.",
+        "name": "Terminal Kiliran Jao",
+        "kota": "Kabupaten Sijunjung",
+        "province": "Sumatra Barat"
+    },
+    {
+        "id": "14.",
+        "name": "Terminal Bareh Solok",
+        "kota": "Kota Solok",
+        "province": "Sumatra Barat"
+    },
+    {
+        "id": "15.",
+        "name": "Terminal Simpang Aur",
+        "kota": "Kota Bukittinggi",
+        "province": "Sumatra Barat"
+    },
+    {
+        "id": "16.",
+        "name": "Terminal Jati Pariaman",
+        "kota": "Kota Pariaman",
+        "province": "Sumatra Barat"
+    },
+    {
+        "id": "17.",
+        "name": "Terminal Bangkinang",
+        "kota": "Kabupaten Kampar",
+        "province": "Riau"
+    },
+    {
+        "id": "18.",
+        "name": "Terminal Payung Sekaki",
+        "kota": "Kota Pekanbaru",
+        "province": "Riau"
+    },
+    {
+        "id": "19.",
+        "name": "Terminal Dumai",
+        "kota": "Kota Dumai",
+        "province": "Riau"
+    },
+    {
+        "id": "20.",
+        "name": "Terminal Gerbangsari",
+        "kota": "Kabupaten Indragiri Hulu",
+        "province": "Riau"
+    },
+    {
+        "id": "21.",
+        "name": "Terminal Alam Barajo",
+        "kota": "Kota Jambi",
+        "province": "Jambi"
+    },
+    {
+        "id": "22.",
+        "name": "Terminal Muaro Bungo",
+        "kota": "Kabupaten Bungo",
+        "province": "Jambi"
+    },
+    {
+        "id": "23.",
+        "name": "Terminal Bangko",
+        "kota": "Kabupaten Merangin",
+        "province": "Jambi"
+    },
+    {
+        "id": "24.",
+        "name": "Terminal Sribulan",
+        "kota": "Kabupaten Sarolangun",
+        "province": "Jambi"
+    },
+    {
+        "id": "25.",
+        "name": "Terminal Alang Lebar",
+        "kota": "Kota Palembang",
+        "province": "Sumatra Selatan"
+    },
+    {
+        "id": "26.",
+        "name": "Terminal Karya Jaya",
+        "province": "Sumatra Selatan"
+    },
+    {
+        "id": "27.",
+        "name": "Terminal Kayuagung",
+        "kota": "Kabupaten Ogan Komering Ilir",
+        "province": "Sumatra Selatan"
+    },
+    {
+        "id": "28.",
+        "name": "Terminal Batu Kuning",
+        "kota": "Kabupaten Ogan Komering Ulu",
+        "province": "Sumatra Selatan"
+    },
+    {
+        "id": "29.",
+        "name": "Terminal Betung",
+        "kota": "Kabupaten Banyuasin",
+        "province": "Sumatra Selatan"
+    },
+    {
+        "id": "30.",
+        "name": "Terminal Simpang Priuk",
+        "kota": "Kota Lubuklinggau",
+        "province": "Sumatra Selatan"
+    },
+    {
+        "id": "31.",
+        "name": "Terminal Lahat",
+        "kota": "Kabupaten Lahat",
+        "province": "Sumatra Selatan"
+    },
+    {
+        "id": "32.",
+        "name": "Terminal Simpang Nangka",
+        "kota": "Kabupaten Rejang Lebong",
+        "province": "Bengkulu"
+    },
+    {
+        "id": "33.",
+        "name": "Terminal Air Sebakul",
+        "kota": "Kota Bengkulu",
+        "province": "Bengkulu"
+    },
+    {
+        "id": "34.",
+        "name": "Terminal Rajabasa",
+        "kota": "Kota Bandar Lampung",
+        "province": "Lampung"
+    },
+    {
+        "id": "35.",
+        "name": "Terminal Betan Subing",
+        "kota": "Kabupaten Lampung Tengah",
+        "province": "Lampung"
+    },
+    {
+        "id": "36.",
+        "name": "Terminal Pakupatan",
+        "kota": "Kota Serang",
+        "province": "Banten"
+    },
+    {
+        "id": "37.",
+        "name": "Terminal Labuan",
+        "kota": "Kabupaten Pandeglang",
+        "province": "Banten"
+    },
+    {
+        "id": "38.",
+        "name": "Terminal Mandala",
+        "kota": "Kabupaten Lebak",
+        "province": "Banten"
+    },
+    {
+        "id": "39.",
+        "name": "Terminal Merak",
+        "kota": "Kota Cilegon",
+        "province": "Banten"
+    },
+    {
+        "id": "40.",
+        "name": "Terminal Poris Plawad",
+        "kota": "Kota Tangerang",
+        "province": "Banten"
+    },
+    {
+        "id": "41.",
+        "name": "Terminal Pondok Cabe",
+        "kota": "Kota Tangerang Selatan",
+        "province": "Banten"
+    },
+    {
+        "id": "42.",
+        "name": "Terminal Kampung Rambutan",
+        "kota": "Kota Jakarta Timur",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "43.",
+        "name": "Terminal Kalideres",
+        "kota": "Kota Jakarta Barat",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "44.",
+        "name": "Terminal Blok M",
+        "kota": "Kota Jakarta Selatan",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "45.",
+        "name": "Terminal Cililitan",
+        "kota": "Kota Jakarta Timur",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "46.",
+        "name": "Terminal Grogol",
+        "kota": "Kota Jakarta Barat",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "47.",
+        "name": "Terminal Jakarta Kota",
+        "kota": "Kota Jakarta Barat",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "48.",
+        "name": "Terminal Kampung Melayu",
+        "kota": "Kota Jakarta Timur",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "49.",
+        "name": "Terminal Klender",
+        "kota": "Kota Jakarta Timur",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "50.",
+        "name": "Terminal Lebak Bulus",
+        "kota": "Kota Jakarta Selatan",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "51.",
+        "name": "Terminal Manggarai",
+        "kota": "Kota Jakarta Selatan",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "52.",
+        "name": "Terminal Muara Angke",
+        "kota": "Kota Jakarta Utara",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "53.",
+        "name": "Terminal Pasar Minggu",
+        "kota": "Kota Jakarta Selatan",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "54.",
+        "name": "Terminal Pinang Ranti",
+        "kota": "Kota Jakarta Timur",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "55.",
+        "name": "Terminal Pulo Gadung",
+        "kota": "Kota Jakarta Timur",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "56.",
+        "name": "Terminal Ragunan",
+        "kota": "Kota Jakarta Selatan",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "57.",
+        "name": "Terminal Rawamangun",
+        "kota": "Kota Jakarta Timur",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "58.",
+        "name": "Terminal Pasar Senen",
+        "kota": "Kota Jakarta Pusat",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "59.",
+        "name": "Terminal Tanjung Priok",
+        "kota": "Kota Jakarta Utara",
+        "province": "DKI Jakarta"
+    },
+    {
+        "id": "60.",
+        "name": "Terminal K.H. Ahmad Sanusi",
+        "kota": "Kota Sukabumi",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "61.",
+        "name": "Terminal Ciakar",
+        "kota": "Kabupaten Sumedang",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "62.",
+        "name": "Terminal Guntur",
+        "kota": "Kabupaten Garut",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "63.",
+        "name": "Terminal Pameungpeuk",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "64.",
+        "name": "Terminal Harjamukti",
+        "kota": "Kota Cirebon",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "65.",
+        "name": "Terminal Indihiang",
+        "kota": "Kota Tasikmalaya",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "66.",
+        "name": "Terminal Kertawangunan",
+        "kota": "Kabupaten Kuningan",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "67.",
+        "name": "Terminal Subang",
+        "kota": "Kabupaten Subang",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "68.",
+        "name": "Terminal Banjar Patroman",
+        "kota": "Kota Banjar",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "69.",
+        "name": "Terminal Cikampek",
+        "kota": "Kabupaten Karawang",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "70.",
+        "name": "Terminal Baranangsiang",
+        "kota": "Kota Bogor",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "71.",
+        "name": "Terminal Bekasi",
+        "kota": "Kota Bekasi",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "72.",
+        "name": "Terminal Jatiasih",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "73.",
+        "name": "Terminal Cikarang",
+        "kota": "Kabupaten Bekasi",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "74.",
+        "name": "Terminal Depok",
+        "kota": "Kota Depok",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "75.",
+        "name": "Terminal Jatijajar",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "76.",
+        "name": "Terminal Sawangan",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "77.",
+        "name": "Terminal Cicaheum",
+        "kota": "Kota Bandung",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "78.",
+        "name": "Terminal Leuwipanjang",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "79.",
+        "name": "Terminal Ciroyom",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "80.",
+        "name": "Terminal Ledeng",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "81.",
+        "name": "Terminal Palabuhanratu",
+        "kota": "Kabupaten Sukabumi",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "82.",
+        "name": "Terminal Singaparna",
+        "kota": "Kabupaten Tasikmalaya",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "83.",
+        "name": "Terminal Ciamis",
+        "kota": "Kabupaten Ciamis",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "84.",
+        "name": "Terminal Pangandaran",
+        "kota": "Kabupaten Pangandaran",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "85.",
+        "name": "Terminal Sumber",
+        "kota": "Kabupaten Cirebon",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "86.",
+        "name": "Terminal Losari",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "87.",
+        "name": "Terminal Ciledung",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "88.",
+        "name": "Terminal Indramayu",
+        "kota": "Kabupaten Indramayu",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "89.",
+        "name": "Terminal Purworejo",
+        "kota": "Kabupaten Purworejo",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "90.",
+        "name": "Terminal Suronegaran",
+        "kota": "",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "91.",
+        "name": "Terminal Nampurejo",
+        "kota": "",
+        "province": "Jawa Barat"
+    },
+    {
+        "id": "92.",
+        "name": "Terminal Cepu",
+        "kota": "Kabupaten Blora",
+        "province": ""
+    },
+    {
+        "id": "93.",
+        "name": "Terminal Gagak Rimang",
+        "kota": "",
+        "province": ""
+    },
+    {
+        "id": "94.",
+        "name": "Terminal Bangun Desa",
+        "kota": "Kabupaten Cilacap",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "95.",
+        "name": "Terminal Giri Adipura",
+        "kota": "Kabupaten Wonogiri",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "96.",
+        "name": "Terminal Pracimantoro",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "97.",
+        "name": "Terminal Baturetno",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "98.",
+        "name": "Terminal Jatisrono",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "99.",
+        "name": "Terminal Purwantoro",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "100.",
+        "name": "Terminal Soekarno",
+        "kota": "Kabupaten Klaten",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "101.",
+        "name": "Terminal Kebumen",
+        "kota": "Kabupaten Kebumen",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "102.",
+        "name": "Terminal Mangkang",
+        "kota": "Kota Semarang",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "103.",
+        "name": "Terminal Pengaron",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "104.",
+        "name": "Terminal Pekalongan",
+        "kota": "Kota Pekalongan",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "105.",
+        "name": "Terminal Pemalang",
+        "kota": "Kabupaten Pemalang",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "106.",
+        "name": "Terminal Purwokerto",
+        "kota": "Kabupaten Banyumas",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "107.",
+        "name": "Terminal Mendolo",
+        "kota": "Kabupaten Wonosobo",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "108.",
+        "name": "Terminal Bawen",
+        "kota": "Kabupaten Semarang",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "109.",
+        "name": "Terminal Tidar",
+        "kota": "Kota Magelang",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "110.",
+        "name": "Terminal Tingkir",
+        "kota": "Kota Salatiga",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "111.",
+        "name": "Terminal Tirtonadi",
+        "kota": "Kota Surakarta",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "112.",
+        "name": "Terminal Jati",
+        "kota": "Kabupaten Kudus",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "113.",
+        "name": "Terminal Bobotsari",
+        "kota": "Kabupaten Purbalingga",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "114.",
+        "name": "Terminal Purbalingga",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "115.",
+        "name": "Terminal Demak",
+        "kota": "Kabupaten Demak",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "116.",
+        "name": "Terminal Bintoro",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "117.",
+        "name": "Terminal Tegal",
+        "kota": "Kota Tegal",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "118.",
+        "name": "Terminal Purwodadi",
+        "kota": "Kabupaten Grobogan",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "119.",
+        "name": "Terminal Sunggingan",
+        "kota": "Kabupaten Boyolali",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "120.",
+        "name": "Terminal Kartasura",
+        "kota": "Kabupaten Sukoharjo",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "121.",
+        "name": "Terminal Sukoharjo",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "122.",
+        "name": "Terminal Tegalgede",
+        "kota": "Kabupaten Karanganyar",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "123.",
+        "name": "Terminal Tawangmangu",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "124.",
+        "name": "Terminal Pilangsari",
+        "kota": "Kabupaten Sragen",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "125.",
+        "name": "Terminal Madureso",
+        "kota": "Kabupaten Temanggung",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "126.",
+        "name": "Terminal Muntilan",
+        "kota": "Kabupaten Magelang",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "127.",
+        "name": "Terminal Mandiraja",
+        "kota": "Kabupaten Banjarnegara",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "128.",
+        "name": "Terminal Banjarnegara",
+        "kota": "Kabupaten Banjarnegara",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "129.",
+        "name": "Terminal Bumiayu",
+        "kota": "Kabupaten Brebes",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "130.",
+        "name": "Terminal Tanjung",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "131.",
+        "name": "Terminal Kajen",
+        "kota": "Kabupaten Pekalongan",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "132.",
+        "name": "Terminal Banyuputih",
+        "kota": "Kabupaten Batang",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "133.",
+        "name": "Terminal Giwangan",
+        "kota": "Kota Yogyakarta",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "134.",
+        "name": "Terminal Dhaksinarga",
+        "kota": "Kabupaten Gunung Kidul",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "135.",
+        "name": "Terminal Jombor",
+        "kota": "Kabupaten Sleman",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "136.",
+        "name": "Terminal Palbapang",
+        "kota": "Kabupaten Bantul",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "137.",
+        "name": "Terminal Wates",
+        "kota": "Kabupaten Kulon Progo",
+        "province": "Jawa Tengah"
+    },
+    {
+        "id": "138.",
+        "name": "Terminal Arjosari",
+        "kota": "Kota Malang",
+        "province": "Jawa Timur"
+    },
+    {
+        "id": "139.",
+        "name": "Terminal Hamid Rusdi",
+        "province": "Jawa Timur"
+    },
+    {
+        "id": "140.",
+        "name": "Terminal Landungsari",
+        "province": "Jawa Timur"
+    },
+    {
+        "id": "141.",
+        "name": "Terminal Arya Wiraraja",
+        "kota": "Kabupaten Sumenep",
+        "province": "Jawa Timur"
+    },
+    {
+        "id": "142.",
+        "name": "Terminal Bangkalan",
+        "kota": "Kabupaten Bangkalan",
+        "province": "Jawa Timur"
+    },
+    {
+        "id": "143.",
+        "name": "Terminal Bayuangga",
+        "kota": "Kota Probolinggo",
+        "province": "Jawa Timur"
+    },
+    {
+        "id": "144.",
+        "name": "Terminal Gayatri",
+        "kota": "Kabupaten Tulungagung",
+        "province": "Jawa Timur"
+    },
+    {
+        "id": "145.",
+        "name": "Terminal Kertonegoro",
+        "kota": "Kabupaten Ngawi",
+        "province": "Jawa Timur"
+    },
+    {
+        "id": "146.",
+        "name": "Terminal Pacitan",
+        "kota": "Kabupaten Pacitan",
+        "province": "Jawa Timur"
+    },
+    {
+        "id": "147.",
+        "name": "Terminal Ngadirojo",
+        "province": "Jawa Timur"
+    },
+    {
+        "id": "148.",
+        "name": "Terminal Patria",
+        "kota": "Kota Blitar",
+        "province": "Jawa Timur"
+    },
+    {
+        "id": "149.",
+        "name": "Terminal Purboyo",
+        "kota": "Kota Madiun",
+        "province": "Jawa Timur"
+    },
+    {
+        "id": "150.",
+        "name": "Terminal Selo Aji",
+        "kota": "Kabupaten Ponorogo",
+        "province": "Jawa Timur"
+    }
+]
